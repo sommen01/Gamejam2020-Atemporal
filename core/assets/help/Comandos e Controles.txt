@@ -1,0 +1,41 @@
+-- Básicos
+W - Pulo e pulo duplo (gasta stamina)
+A - Anda pra esquerda
+D - Anda pra direita
+Q - Rolamento pra esquerda
+E - Rolamento pra direita
+Shift Esquerdo - Rolamento na direção do personagem
+
+Z - Interage com props e npcs
+X - Coleta itens do chão
+
+I - Inventário
+P - Lista de skills
+C - Informações do personagem
+O - Dança (infuncional)
+
+1~9 - Skills
+F1~F3 - Hotbar
+
+-- Avançados
+Home - Ativa o modo debug e o menu var[x]
+Insert - Aumenta o índice do var[x]
+End - Diminui o índice do var[x]
++ - Aumenta o var[x]
+- - Diminui o var[x]
+Ctrl & + - Aumenta o var[x] em 10
+Ctrl & - - Diminui o var[x] em 10
+Shift & + - Aumenta o var[x] em 100
+Shift & - - Diminui o var[x] em 100
+
+Ctrl + F - Teleporta o jogador para o mapa (var[0], var[1]) onde Stor Gave = (0, 0)
+U - Altera a língua do jogo para o var[1] (0 = inglês, 1 = português)
+Ctrl+Y - Spawna o NPC com o ID var[0] (Usar quando var[0] = 0 vai crashar)
+Ctrl+Z - Troca seu inventário para uma lista de itens, onde var[4] = página de itens (Usar quando var[0] < 0 vai crashar)
+Ctrl+H - Spawna partículas com ID var[8] no player
+Ctrl+B - Ativa/desativa a hud
+Ctrl+N - Spawna o monstro com o ID var[9]
+Ctrl+K - Avança pro próximo nível
+
+var[2] = Zoom adicional da câmera
+var[1] = Checagem de distãncia onde um círculo é desenhado no centro do player com um raio var[1]

@@ -1,0 +1,296 @@
+{
+position: {
+	x: 1476.1439
+	y: 512
+}
+velocity: {
+	x: 4.586725
+}
+active: true
+savedPosition: {
+	x: 1590.4573
+	y: 536.2666
+}
+savedVelocity: {
+	x: -800
+	y: 64
+}
+name: Hero
+myMapX: 8
+health: 1
+inventory: [
+	{
+		name: Espada Curta de Madeira
+		id: 76
+		level: 1
+	}
+	{
+		name: Espada Curta de Madeira
+		id: 76
+		level: 1
+	}
+	{
+		name: Espada Larga de Madeira
+		id: 77
+		level: 1
+	}
+	{
+		name: Escudo Redondo
+		id: 31
+		level: 13
+	}
+	{
+		name: Espada de Bolso de Estanho
+		id: 163
+		level: 1
+	}
+	{
+		name: Lampião
+		id: 151
+		level: 1
+	}
+	{
+		name: Ladrão de Sangue
+		id: 164
+		level: 1
+	}
+	{
+		name: Corrente Elétrica
+		id: 165
+		level: 1
+	}
+	{
+		name: Conversor de Poder
+		id: 166
+		level: 1
+	}
+	{
+		name: Espada Curta de Ferro
+		id: 74
+		level: 10
+	}
+	{
+		name: Adaga de Ferro
+		id: 75
+		level: 10
+	}
+	{
+		name: Espada Curta de Madeira
+		id: 76
+		level: 1
+	}
+	{
+		name: Espada Larga de Madeira
+		id: 77
+		level: 1
+	}
+	{
+		name: Minério de Ferro
+		id: 78
+		level: 10
+		stacks: 5
+	}
+	{
+		name: Pá do Guerreiro
+		id: 79
+		level: 8
+	}
+	{
+		name: Cutelo do Açougueiro
+		id: 80
+		level: 15
+	}
+	{
+		name: Machete
+		id: 81
+		level: 2
+	}
+	{
+		name: Minério de Ouro
+		id: 82
+		level: 30
+		stacks: 5
+	}
+	{
+		name: Pedra
+		id: 83
+		level: 5
+		stacks: 5
+	}
+	{
+		name: Armadura de Pedra Polida
+		id: 84
+		level: 6
+	}
+	{
+		name: Capacete de Pedra Polida
+		id: 85
+		level: 5
+	}
+	{
+		name: Martelo de Guerra de Pedra
+		id: 86
+		level: 8
+	}
+	{
+		name: Espada de Madeira Mágica
+		id: 87
+		specialSkill: {
+			id: 63
+			level: 1
+		}
+		level: 6
+	}
+	{
+		name: Pergaminho de Conhecimento Básico: Hemomante
+		id: 88
+		level: 1
+	}
+	{
+		name: Poção de Vida Pequena
+		id: 89
+		level: 1
+		stacks: 5
+	}
+	{
+		name: Poção de Vida Média
+		id: 90
+		level: 1
+		stacks: 5
+	}
+	{
+		name: Poção de Vida Grande
+		id: 91
+		level: 1
+		stacks: 5
+	}
+	{
+		name: Lâmina Espiritual
+		id: 169
+		specialSkill: {
+			id: 123
+			level: 1
+		}
+		level: 64
+	}
+	{
+		name: Toca de Vikristmas
+		id: 66
+		level: 6
+	}
+	{
+		name: Pergaminho de Conhecimento Básico: Trapaceiro de Cassino
+		id: 94
+		level: 1
+	}
+	{
+		position: {
+			x: 896.47076
+			y: 640.34436
+		}
+		width: 64
+		height: 64
+		name: Pele de Aranha
+		myMapX: 7
+		id: 140
+		level: 12
+		stacks: 17
+	}
+	{
+		name: Capacete Dourado
+		id: 96
+		level: 30
+	}
+	null
+	null
+	{
+		name: Marca Demoníaca
+		id: 172
+		level: 100
+	}
+	{
+		name: Marca Demoníaca
+		id: 173
+		level: 100
+	}
+	null
+	null
+	null
+	null
+]
+vanity: [
+	{
+		name: Arco de Madeira
+		id: 3
+		level: 1
+	}
+	null
+	null
+	null
+]
+skills: [
+	{
+		id: 19
+		level: 1
+		totalCasts: 12
+		extraInfos: [ 1590, 536, -1, -800, 64 ]
+	}
+	{
+		id: 94
+		level: 1
+	}
+	{
+		id: 55
+		level: 1
+	}
+	null
+	null
+	null
+	null
+	null
+	null
+	null
+	null
+]
+learnedSkills: [
+	{
+		id: 19
+		level: 1
+		totalCasts: 12
+		extraInfos: [ 1590, 536, -1, -800, 64 ]
+	}
+	{
+		id: 94
+		level: 1
+	}
+	{
+		id: 55
+		level: 1
+	}
+]
+skillSlotAvailable: 6
+stamina: 63
+timeForStamina: -433.40497
+saveInfo: {
+	myWorldTime: 609431
+}
+intelligence: 15
+level: 100
+experience: 10000000
+characterPoints: 0
+classType: SAMURAI
+cameFromX: 7
+cameFromLX: 1539
+cameFromLY: 1152
+learnedRecipes: [
+	_MAGICESSENCE1
+	_MAGICESSENCE2
+	_MAGICESSENCE3
+	_MAGICESSENCE4
+	_MAGICESSENCE5
+	_MAGICESSENCE6
+	_MAGICESSENCE7
+	_MAGICESSENCE8
+]
+lastSkinColor: [ 1, 0.7607843, 0.31764707 ]
+}
